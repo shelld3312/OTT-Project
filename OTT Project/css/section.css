@@ -1,0 +1,33 @@
+#main-article {
+  margin: 15px;
+}
+
+.image {
+  border: 1px solid white;
+}
+
+.image img {
+  display: inline-block;
+  width: 150px;
+  height: 250px;
+  float: left;
+  margin: 60px;
+}
+
+.mainwrite {
+  color: white;
+  float: right;
+  margin: 30px;
+  line-height: 50px;
+  width: 850px;
+}
+
+.mainwrite img {
+  width: 40px;
+  height: 40px;
+  margin-right: 5px;
+}
+
+.clear {
+  clear: both;
+}
